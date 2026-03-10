@@ -1,0 +1,7 @@
+pyrogram==2.0.106
+tgcrypto
+motor
+flask
+rapidfuzz
+requests
+python-dotenv
