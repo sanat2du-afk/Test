@@ -3,7 +3,7 @@ import config
 
 settings = {
     "imdb": True,
-    "shortner": True,
+    "shortner": False,
     "autodelete": 300
 }
 
