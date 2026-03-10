@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from database.users import add_user
 import config
 
-START_PIC = "assets/start.jpg"
+START_PIC = "https://files.catbox.moe/nynaku.jpg"
 
 
 @Client.on_message(filters.command("start"))
